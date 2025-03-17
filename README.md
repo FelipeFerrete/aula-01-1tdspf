@@ -10,9 +10,6 @@ Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
 
-EXERCÍCIO:
-Para cada seção adicionada, gere um COMMIT e um PUSH!!!
-
 ## 🌱 Tecnologias que estou aprendendo:
 
 - HTML
