@@ -1,12 +1,8 @@
-https://www.markdownguide.org/basic-syntax/
-
-
 # 🚀 Meu Repositório
 
 Olá, mundo! 	
 
 Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da programação e este repositório servirá para praticar, aprender e compartilhar meu progresso.
-
 
 ## 📚 O que você encontrará aqui?
 
@@ -14,11 +10,9 @@ Este é o meu repositório no GitHub. Estou começando minha jornada no mundo da
 - 💡 Anotações e dicas
 - 🛠️ Experimentos com código
 
-
 EXERCÍCIO:
 Para cada seção adicionada, gere um COMMIT e um PUSH!!!
 
-1o-COMMIT
 ## 🌱 Tecnologias que estou aprendendo:
 
 - HTML
@@ -26,12 +20,10 @@ Para cada seção adicionada, gere um COMMIT e um PUSH!!!
 - JavaScript
 - Git e GitHub
 
-2o-COMMIT
 ## 🎯 Objetivo
 
 Meu objetivo é me tornar um desenvolvedor web e criar projetos incríveis no futuro.
 
-3o-COMMIT
 ## 💬 Contato
 
 Se quiser trocar uma ideia ou compartilhar dicas, me avise! 😊
